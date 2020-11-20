@@ -1,8 +1,4 @@
-<<<<<<< HEAD:鲸享好物-front-end/pages/cover/cover.js
-// pages/cover/cover.js
-=======
-// pages/explore/index.js
->>>>>>> fab28e5e91c44ef7f82d0277adecb2cc2d548489:鲸享好物-front-end/pages/explore/index.js
+// pages/search/index.js
 Page({
 
   /**
