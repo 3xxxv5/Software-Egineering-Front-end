@@ -1,9 +1,0 @@
-image {
-  width: 100%;
-}
-
-swiper {
-  background-color: whitesmoke;
-  width           : 100%;
-  height          : calc(750rpx*691/1281);
-}
